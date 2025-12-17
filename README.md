@@ -41,14 +41,19 @@ Edit
  ┣ 📄 package.json      ← Node dependencies
  ┣ 📄 credentials.json  ← (Git-ignored) Google API key
  ┣ 📄 .gitignore        ← Ignoring secrets
-🚀 How to Use (Local Setup)
+```
+<h1>🚀 How to Use (Local Setup)</h1>
 Clone the repo
 
 bash
 Copy
 Edit
 git clone https://github.com/your-username/email-scraper-api.git
+
+
 cd email-scraper-api
+
+
 Install dependencies
 
 bash
