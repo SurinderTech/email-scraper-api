@@ -1,5 +1,5 @@
 <h1 align="center">
-  📬 Email & Phone Scraper API
+  📬 Email & Phone No Scraper API
 </h1>
 
 <p align="center">
