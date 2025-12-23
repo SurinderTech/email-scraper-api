@@ -48,18 +48,21 @@ Clone the repo
 bash
 Copy
 Edit
+```
 git clone https://github.com/your-username/email-scraper-api.git
+```
 
-
+```
 cd email-scraper-api
+```
 
-
+```
 Install dependencies
+```
 
-bash
-Copy
-Edit
+```
 npm install
+```
 Add your credentials.json (Google Service Account with Sheets access)
 
 Start the server
