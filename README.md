@@ -25,9 +25,8 @@ A **Node.js Express API** that:
 
 GET /scrape?url=https://en.wikipedia.org/wiki/OpenAI
 
-⚙️ Tech Stack
-Feature	Technology
-Server	Node.js + Express
+|⚙️ Tech Stack | Feature	Technology
+Server --	Node.js + Express
 Scraping Engine	Puppeteer (Headless Chrome)
 Google Sheets Sync	Google Sheets API
 Deployment Ready	✅ Railway / Render
