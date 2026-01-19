@@ -22,7 +22,7 @@ A **Node.js Express API** that:
 
 ## 🌐 Live Demo (Optional)
 
-```bash
+
 GET /scrape?url=https://en.wikipedia.org/wiki/OpenAI
 
 ⚙️ Tech Stack
@@ -31,7 +31,7 @@ Server	Node.js + Express
 Scraping Engine	Puppeteer (Headless Chrome)
 Google Sheets Sync	Google Sheets API
 Deployment Ready	✅ Railway / Render
-
+```
 📁 Project Structure
 pgsql
 Copy
