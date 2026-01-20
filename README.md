@@ -74,9 +74,6 @@ Add your credentials.json (Google Service Account with Sheets access)
 
 Start the server
 
-bash
-Copy
-Edit
 node index.js
 ✅ Sample Output
 
