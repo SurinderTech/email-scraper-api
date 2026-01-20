@@ -90,12 +90,12 @@ node index.js
     "9810610492"
   ]
 }
+
+
 📊 Google Sheet Integration
 Your Google Sheet should have headers like:
 
-perl
-Copy
-Edit
+
 | URL                          | Emails                     | Phones                        |
 |-----------------------------|----------------------------|-------------------------------|
 | https://example.com         | example@mail.com, ...      | 9876543210, 9123456789, ...   |
