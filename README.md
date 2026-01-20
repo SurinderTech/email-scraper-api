@@ -84,7 +84,17 @@ node index.js
 {
   "message": "✅ Scraped and added to sheet",<br>
   "url": "https://en.wikipedia.org/wiki/OpenAI",<br>
-  "emails": [],
+  "emails": [john.doe239@gmail.com
+
+alex_walker89@yahoo.com<br>
+
+samtech.io@outlook.com<br>
+
+priya.dev2024@gmail.com<br>
+
+random.user77@proton.me],<br>
+
+
   "phones": [
     "7000000000",
     "9022403162",
