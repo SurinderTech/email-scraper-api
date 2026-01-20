@@ -79,9 +79,7 @@ Copy
 Edit
 node index.js
 ✅ Sample Output
-json
-Copy
-Edit
+
 {
   "message": "✅ Scraped and added to sheet",
   "url": "https://en.wikipedia.org/wiki/OpenAI",
