@@ -83,7 +83,7 @@ node index.js
 
 {
   "message": "✅ Scraped and added to sheet",<br>
-  "url": "https://en.wikipedia.org/wiki/OpenAI",
+  "url": "https://en.wikipedia.org/wiki/OpenAI",<br>
   "emails": [],
   "phones": [
     "7000000000",
