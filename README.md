@@ -25,15 +25,18 @@ A **Node.js Express API** that:
 
 GET /scrape?url=https://en.wikipedia.org/wiki/OpenAI
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
+
+| Feature / Layer        | Technology Used                     |
+|------------------------|-------------------------------------|
+| Server                 | Node.js + Express                   |
+| Scraping Engine        | Puppeteer (Headless Chrome)         |
+| Google Sheets Sync     | Google Sheets API                   |
+| Deployment             | Railway / Render                    |
+ Production Ready        | ✅ Yes                              |
 
 
-| Feature	/ Technology  udes               |          
-|----------------------|--------------------------------|
-| Server        	      |Node.js + Express               |
-| Scraping Engine      |	Puppeteer (Headless Chrome)    |
-| Google Sheets Sync   |	Google Sheets API              |
-| Deployment           | Railway / Render               |
+
 
 ```
 📁 Project Structure
