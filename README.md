@@ -27,14 +27,13 @@ GET /scrape?url=https://en.wikipedia.org/wiki/OpenAI
 
 ## ⚙️ Tech Stack
 
-| Feature / Layer        | Technology Used                     |
-|------------------------|-------------------------------------|
-| Server                 | Node.js + Express                   |
-| Scraping Engine        | Puppeteer (Headless Chrome)         |
-| Google Sheets Sync     | Google Sheets API                   |
-| Deployment             | Railway / Render                    |
- Production Ready        | ✅ Yes                              |
-
+| Feature / Layer | Technology |
+|-----------------|------------|
+| 🖥️ Server       | Node.js + Express |
+| 🤖 Scraping     | Puppeteer (Headless Chrome) |
+| 📊 Sheets Sync  | Google Sheets API |
+| 🚀 Deployment   | Railway / Render |
+| ✅ Status       | Production Ready |
 
 
 
