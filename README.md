@@ -74,7 +74,10 @@ Add your credentials.json (Google Service Account with Sheets access)
 
 Start the server
 
+```
 node index.js
+```
+
 ✅ Sample Output
 
 {
