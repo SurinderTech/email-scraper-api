@@ -82,7 +82,7 @@ node index.js
 ### ✅ Sample Output
 
 {
-  "message": "✅ Scraped and added to sheet",
+  "message": "✅ Scraped and added to sheet",<br>
   "url": "https://en.wikipedia.org/wiki/OpenAI",
   "emails": [],
   "phones": [
