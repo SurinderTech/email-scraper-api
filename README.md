@@ -78,7 +78,8 @@ Start the server
 node index.js
 ```
 
-✅ Sample Output
+
+### ✅ Sample Output
 
 {
   "message": "✅ Scraped and added to sheet",
