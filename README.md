@@ -101,7 +101,7 @@ random.user77@proton.me],<br>
 }
 
 
-📊 Google Sheet Integration
+# 📊 Google Sheet Integration
 Your Google Sheet should have headers like:
 
 
