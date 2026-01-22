@@ -94,7 +94,7 @@ priya.dev2024@gmail.com<br>
 random.user77@proton.me],<br>
 
 
-  "phones": [
+  # "phones": [
     "7000000000",
     "9022403162",
     "9810610492"
